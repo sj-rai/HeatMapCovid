@@ -153,7 +153,6 @@ export default class MapComponent extends React.Component {
         })
     }
     render() {
-        // var geoData;
         return (
           <div>
             <div className='sidebarStyle'>
